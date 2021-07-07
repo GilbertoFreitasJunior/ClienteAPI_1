@@ -1,0 +1,57 @@
+﻿@using ApiProj.Models;
+@model Cliente;
+
+@{
+    ViewData["Title"] = "Adicionar Cliente";
+}
+
+<h1 class="text-center mb-4 mt-1">Adicionar Cliente</h1>
+
+<div class="container">
+    <form class="mt-5" id="adicionaClienteForm" asp-action="AdicionaCliente" asp-controller="Home" method="post">
+        <div class="form-row align-items-center">
+            <div class="col-8 my-2 offset-2">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text">Nome</div>
+                    </div>
+                    <input type="text" class="form-control" id="nome" asp-for="Nome" placeholder="João" required minlength="2" maxlength="60">
+                </div>
+            </div>
+        </div>
+
+        <div class="form-row align-items-center">
+            <div class="col-2 my-2 offset-2">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text">DDD</div>
+                    </div>
+                    <input type="number" class="form-control" id="ddd" asp-for="DDD" placeholder="14" min="1" max="99">
+                </div>
+            </div>
+            <div class="col-6 my-2">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text">Fone</div>
+                    </div>
+                    <input type="text" class="form-control" id="fone" asp-for="Fone" placeholder="Somente Números!" required pattern="[0-9]{9}" maxlength="9">
+                </div>
+            </div>
+        </div>
+
+        <div class="form-row align-items-center">
+            <div class="col-8 my-2 offset-2">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text">CPF/CNPJ</div>
+                    </div>
+                    <input type="text" class="form-control" id="cp" asp-for="CNPJouCpf" placeholder="Somente Números!" pattern="([0-9]{11})|([0-9]{14})" required minlength="11" maxlength="14">
+                </div>
+            </div>
+        </div>
+
+        <div class="form-row align-items-center">
+                <button type="submit" class="btn btn-teal col-8 my-3 offset-2">Cadastrar</button>
+        </div>
+    </form>
+</div>

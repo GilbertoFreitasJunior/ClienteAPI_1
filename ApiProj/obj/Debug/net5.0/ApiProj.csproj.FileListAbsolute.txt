@@ -1,0 +1,114 @@
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\appsettings.json
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\ApiProj.exe
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\ApiProj.deps.json
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\ApiProj.runtimeconfig.json
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\ApiProj.runtimeconfig.dev.json
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\ApiProj.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\ref\ApiProj.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\ApiProj.pdb
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.csproj.AssemblyReference.cache
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.AssemblyInfoInputs.cache
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.AssemblyInfo.cs
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.csproj.CoreCompileInputs.cache
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\staticwebassets\ApiProj.StaticWebAssets.Manifest.cache
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\staticwebassets\ApiProj.StaticWebAssets.xml
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\scopedcss\bundle\ApiProj.styles.css
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.RazorTargetAssemblyInfo.cache
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.csproj.CopyComplete
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.dll
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ref\ApiProj.dll
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.pdb
+C:\Users\mytef\source\repos\ApiProj\obj\Debug\net5.0\ApiProj.genruntimeconfig.cache
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mytef\source\repos\ApiProj\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\appsettings.json
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\ApiProj.exe
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\ApiProj.deps.json
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\ApiProj.runtimeconfig.json
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\ApiProj.runtimeconfig.dev.json
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\ApiProj.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\ref\ApiProj.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\ApiProj.pdb
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.csproj.AssemblyReference.cache
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.AssemblyInfoInputs.cache
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.AssemblyInfo.cs
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\staticwebassets\ApiProj.StaticWebAssets.Manifest.cache
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\staticwebassets\ApiProj.StaticWebAssets.xml
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\scopedcss\bundle\ApiProj.styles.css
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.RazorTargetAssemblyInfo.cache
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.csproj.CopyComplete
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ref\ApiProj.dll
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.pdb
+C:\Users\Gilberto\source\repos\Projeto\repos\ApiProj\obj\Debug\net5.0\ApiProj.genruntimeconfig.cache
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\appsettings.json
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\ApiProj.exe
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\ApiProj.deps.json
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\ApiProj.runtimeconfig.json
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\ApiProj.runtimeconfig.dev.json
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\ApiProj.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\ref\ApiProj.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\ApiProj.pdb
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mytef\source\Api Proj\ApiProj\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.csproj.AssemblyReference.cache
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.AssemblyInfoInputs.cache
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.AssemblyInfo.cs
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.csproj.CoreCompileInputs.cache
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\staticwebassets\ApiProj.StaticWebAssets.Manifest.cache
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\staticwebassets\ApiProj.StaticWebAssets.xml
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\scopedcss\bundle\ApiProj.styles.css
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.RazorTargetAssemblyInfo.cache
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.csproj.CopyComplete
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.dll
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ref\ApiProj.dll
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.pdb
+C:\Users\mytef\source\Api Proj\ApiProj\obj\Debug\net5.0\ApiProj.genruntimeconfig.cache
